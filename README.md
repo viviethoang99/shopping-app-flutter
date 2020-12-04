@@ -1,16 +1,37 @@
-# shop_app
+## **Flutter Shopping App - Learn Flutter**
 
-A new Flutter project.
+Building a shopping cart app on the process of learning flutter.
 
-## Getting Started
+### This practice app covers the following topics:
 
-This project is a starting point for a Flutter application.
+- Basic UI / Widgets
+- Basic Routing
+- AppDrawer Navigation
+- Dismissible Elements or Removing Items by Swiping
+- Local State Management and App Wide State Management
+- State Management using Provider Package
+- DateTime Formatting
+- Form usages and submission in Flutter
+- RESTful API
+- Flutter http library
+- GET, POST, PATCH, PUT and DELETE http requests
+- http error handling
+- Future and async/await
+- Pull to refresh and fetch data from server
+- FutureBuilder
+- Firebase User Authentication (Signup/Login)
+- Auto Login/Logout
+- Shared Preferences
+- Basic Animations
+- Custom Route Transition
+- ...and more
 
-A few resources to get you started if this is your first Flutter project:
+# Demo
+![](assets/images/Demo.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Code Dependencies
+If you wish to run this code on your local machine, Flutter needs to be installed.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+See instructions [here](https://flutter.dev/docs/get-started/install "here") for your operating system.
+
+# End.
