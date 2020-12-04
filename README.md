@@ -27,7 +27,7 @@ Building a shopping cart app on the process of learning flutter.
 - ...and more
 
 # Demo
-![](assets/images/Demo.png)
+![](assets/images/demo.png)
 
 # Code Dependencies
 If you wish to run this code on your local machine, Flutter needs to be installed.
